@@ -1,0 +1,5 @@
+BSCS students are 10
+BSSC students are 10
+BBA students are 10
+Pharm.D students are 10
+Scholarship students are 20

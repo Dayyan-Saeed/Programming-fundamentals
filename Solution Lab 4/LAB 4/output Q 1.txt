@@ -1,0 +1,4 @@
+		Positions
+1st position got student having 93.3 marks.
+2nd position got student having 88.9 marks.
+3rd position got student having 86.2 marks.

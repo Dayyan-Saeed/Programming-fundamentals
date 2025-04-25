@@ -1,0 +1,6 @@
+
+*** Employee Details ***
+Name : ALi
+Salary : 20000
+Employee Code : 223
+Department : acc

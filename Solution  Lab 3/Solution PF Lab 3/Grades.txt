@@ -1,0 +1,5 @@
+Total As are: 2
+Total Bs are: 1
+Total Cs are: 1
+Total Ds are: 0
+Total Fs are: 0

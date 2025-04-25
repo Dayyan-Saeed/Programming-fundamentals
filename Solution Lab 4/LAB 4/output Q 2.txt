@@ -1,0 +1,2 @@
+Number of reviews: 11
+Average rating is 2.90909
